@@ -131,4 +131,4 @@ def adding_to_dennis
       }
     }
     adding_to_dennis = programmer_hash[languages].push("Assembly")
-    puts programmer_hash
+    programmer_hash
